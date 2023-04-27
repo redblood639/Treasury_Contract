@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@aave/protocol-v2": "^1.0.1",
+    "@openzeppelin/contracts": "^4.8.3",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0"
+  },
+  "name": "treasury_contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redblood639/Treasury_Contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redblood639/Treasury_Contract/issues"
+  },
+  "homepage": "https://github.com/redblood639/Treasury_Contract#readme",
+  "description": ""
+}
